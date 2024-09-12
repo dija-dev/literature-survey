@@ -1,0 +1,9 @@
+arxiv
+bitsandbytes
+chromadb
+langchain
+langchain_community
+pypdf
+sentence-transformers
+torch
+transformers
